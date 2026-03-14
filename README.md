@@ -1,12 +1,13 @@
 # Jarvis Voice Assistant
 
-A simple Python voice assistant built using speech recognition.
+A simple Python voice assistant that can listen to voice commands and perform tasks like opening applications, playing music on YouTube, and telling the time.
 
 ## Features
 - Voice command recognition
+- Text-to-speech responses
 - Play songs on YouTube
-- Open applications like Notepad, Chrome, Calculator
-- Tell current time
+- Open applications (Notepad, Chrome, Calculator)
+- Tell the current time
 - Search information on Wikipedia
 
 ## Libraries Used
@@ -37,4 +38,4 @@ python jarvis_voice_assistant_v2.py
 ```
 
 ## Author
-Ayush
+Ayush Mohanty
